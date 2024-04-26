@@ -19,7 +19,7 @@ cd controle-de-conta-bancaria-virtual
 
 3. Compile o código-fonte:
 ```bash
-javac desafio.java
+java desafio.java
 ```
 
 4. Execute o programa:
